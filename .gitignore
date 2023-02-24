@@ -1,4 +1,5 @@
-/target
+target/
+output/
 .git/
 *.lock
 .DS_Store
